@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/GitHub/369-Code/Lab1/exH",
-      "program": "c:/GitHub/369-Code/Lab1/exH/build/Debug/outDebug",
+      "cwd": "c:/GitHub/369-Code/Lab1/exB",
+      "program": "c:/GitHub/369-Code/Lab1/exB/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
